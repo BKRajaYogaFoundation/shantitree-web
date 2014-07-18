@@ -1,40 +1,41 @@
 body {
   background-color: white; }
 
-.nav-left {
-  list-style-type: none; }
-  .nav-left li {
-    float: left; }
-    .nav-left li a {
-      display: block; }
-
 #top-nav ul {
+  list-style-type: none; }
+#top-nav li {
   float: right; }
-#top-nav li a {
-  padding: 0px 10px;
-  color: #41200d; }
+  #top-nav li a {
+    display: block;
+    padding: 0px 10px;
+    color: #41200d;
+    font-family: "wdb_bangnaregular";
+    font-size: 14px; }
 
 #site-logo {
-  padding-top: 20px; }
+  text-align: center; }
 
 #page-header {
-  padding-top: 10px; }
+  padding-top: 10px;
+  background: url("../img/page-bg.jpg") repeat-x; }
 
-#decor-page-bg {
-  background: url("../img/new main bg.jpg") repeat-x; }
+#page-content {
+  font-family: "wdb_bangnaregular"; }
 
 #site-menu-bar {
-  /*background: url("../img/site-menubar-bg.png") repeat-x white left bottom */
-  background-color: #603b17;
+  background: url("../img/site-menubar-bg.png") repeat-x white left bottom;
+  background-color: #f7e9d9;
   padding: 0; }
   #site-menu-bar ul {
     list-style-type: none; }
-  #site-menu-bar li {
-    padding: 0; }
-    #site-menu-bar li a {
-      display: block;
-      color: white;
-      padding: 4px 0;
-      font-size: 16px;
-      text-align: center;
-      font-style: italic; }
+    #site-menu-bar ul li {
+      padding: 0;
+      float: left; }
+      #site-menu-bar ul li a {
+        display: block;
+        color: #784421;
+        padding: 6px 0 8px 0;
+        font-size: 16px;
+        text-align: center;
+        font-family: "wdb_bangnaregular";
+        font-weight: 0.8em; }
