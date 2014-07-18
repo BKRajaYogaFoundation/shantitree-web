@@ -1,7 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf770236-5c5e-4f70-88c2-942fd797f1b7" name="Default" comment="virtue pictures">
+    <list default="true" id="cf770236-5c5e-4f70-88c2-942fd797f1b7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/adventure.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/appreciative.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/beauty.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/calm.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/centered.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/cheerful.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/compassionate.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/constant.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/content.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/cooperative.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/courageous.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/creative.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/detached.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/determined.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/dignified.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/enthusiastic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/faithful.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/flexible.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/forgiving.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/free.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/generous.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/gentle.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/happy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/healing.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/honest.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/humility.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/humor.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/intrigridy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/intuitive.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/love.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/magical.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/nurturing.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/patient.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/peaceful.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/positive.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/practical.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/pure hearted.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/resourceful.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/respectful.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/responsible.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/self confident.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/strong.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/sweet.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/tolerant.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/trusting.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/truthful.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/uncomplicated.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/virtue card/pics for card/wise.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="shantitree-web.iws" />
@@ -130,6 +179,28 @@
               <option name="myItemId" value="content" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="virtue card" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pics for card" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shantitree-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shantitree-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -218,7 +289,11 @@
       <created>1405679934155</created>
       <updated>1405679934155</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="virtue pictures">
+      <created>1405680055577</created>
+      <updated>1405680055577</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
