@@ -1,58 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf770236-5c5e-4f70-88c2-942fd797f1b7" name="Default" comment="background color edited">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\adventure.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\appreciative.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\beauty.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\calm.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\centered.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\cheerful.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\compassionate.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\constant.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\content.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\cooperative.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\courageous.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\creative.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\detached.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\determined.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\dignified.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\enthusiastic.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\faithful.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\flexible.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\forgiving.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\free.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\generous.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\gentle.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\happy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\healing.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\honest.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\humility.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\humor.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\intrigridy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\intuitive.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\love.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\magical.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\nurturing.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\patient.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\peaceful.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\positive.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\practical.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\pure hearted.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\resourceful.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\respectful.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\responsible.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\self confident.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\strong.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\sweet.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\tolerant.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\trusting.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\truthful.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\uncomplicated.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebstormProjects\shantitree-web\shantitree-web\img\pics for card\wise.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Thumbs.db" afterPath="$PROJECT_DIR$/img/Thumbs.db" />
+    <list default="true" id="cf770236-5c5e-4f70-88c2-942fd797f1b7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="shantitree-web.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -228,14 +178,19 @@
       <created>1405677722624</created>
       <updated>1405677722624</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="virtue pictures">
+      <created>1405679612421</created>
+      <updated>1405679612421</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1374" height="776" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32771823" sideWeight="0.49962825" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32718894" sideWeight="0.49962825" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872504" sideWeight="0.49962825" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -249,7 +204,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -274,7 +228,8 @@
     <MESSAGE value="add fonts" />
     <MESSAGE value="new content" />
     <MESSAGE value="background color edited" />
-    <option name="LAST_COMMIT_MESSAGE" value="background color edited" />
+    <MESSAGE value="virtue pictures" />
+    <option name="LAST_COMMIT_MESSAGE" value="virtue pictures" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
