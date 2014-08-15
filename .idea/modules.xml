@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/shantitree-web.iml" filepath="$PROJECT_DIR$/.idea/shantitree-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/www.shantitree.net.iml" filepath="$PROJECT_DIR$/.idea/www.shantitree.net.iml" />
     </modules>
   </component>
 </project>
